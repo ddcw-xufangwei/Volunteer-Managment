@@ -16,7 +16,7 @@
 <p><textarea cols="60" rows="10" name="bugcontent"></textarea><br /></p>
 <p><input type="submit" class="button" name="bugsubmit" value="提交" /><br /></p>
 </form>
-<p>也可以直接联系我:534131954@qq.com</p>
+<p>也可以直接联系我:723851159@qq.com</p>
 <hr />
 
 <?php
